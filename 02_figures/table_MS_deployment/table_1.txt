@@ -1,0 +1,14 @@
+Tag ID	Sex	Group	Group Size	Deploy Date	Truncation date	Days of dive data	Reason for truncation
+54	AM	A	6-7	2017-05-10	2017-05-28	17.6	last status message
+55	AM	A	6-7	2017-05-10	2017-05-17	6.3	unknown onboard failure
+56	AM	A	6-7	2017-05-10	2017-06-27	47.5	last status message
+57	Other	B	2	2017-05-16	2017-06-14	28.7	pressure transducer failure
+58	Other	C	1	2017-05-16	2017-06-23	37.8	last status message
+60	AM	D	3	2017-08-17	2017-08-22	4.9	experimental treatment
+61	Other	D	3	2017-08-17	2017-08-22	4.9	experimental treatment
+62	Other	E	3	2017-08-17	2017-08-22	4.9	experimental treatment
+63	AM	F	4	2017-08-20	2017-08-22	2.0	experimental treatment
+64	Other	F	4	2017-08-20	2017-08-22	2.0	experimental treatment
+66	AM	H	3-4	2017-09-04	2017-09-12	7.9	experimental treatment
+67	AM	I	6-8	2017-09-04	2017-09-12	7.8	experimental treatment*
+68	AM	I	6-8	2017-09-04	2017-09-12	7.8	experimental treatment

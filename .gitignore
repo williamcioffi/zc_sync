@@ -1,0 +1,7 @@
+# mac os files
+.DS_Store
+
+# r files
+.Rhistory
+.Rapp.history
+
