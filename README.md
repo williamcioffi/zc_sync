@@ -1,4 +1,5 @@
 # zc_sync
+[![DOI](https://zenodo.org/badge/334234071.svg)](https://zenodo.org/badge/latestdoi/334234071)
 
 This repository contains the data and code used to produce analyses and figures for a manuscript accepted at Marine Mammal Science:
 
@@ -38,7 +39,7 @@ foieGras_0.2.2
 
 Please cite this dataset as:
 
-> Cioffi WR, Quick NJ, Foley HJ, Waples DM, Swaim ZT, Shearer JM, Webster DL, Friedlaender AS, Southall BL, Baird RW, Nowacek DP, Read AJ. 2021. Dataset and code: Adult male Cuvier's beaked whales (*Ziphius cavirostris*) engage in prolonged bouts of synchronous diving. https://github.com/williamcioffi/zc_sync doi: (TBD).
+> Cioffi WR, Quick NJ, Foley HJ, Waples DM, Swaim ZT, Shearer JM, Webster DL, Friedlaender AS, Southall BL, Baird RW, Nowacek DP, Read AJ. 2021. Dataset and code: Adult male Cuvier's beaked whales (*Ziphius cavirostris*) engage in prolonged bouts of synchronous diving. https://github.com/williamcioffi/zc_sync doi: 10.5281/zenodo.4542749.
 
 Please cite the manuscript as:
 
