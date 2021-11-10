@@ -1,9 +1,11 @@
 # zc_sync
 [![DOI](https://zenodo.org/badge/334234071.svg)](https://zenodo.org/badge/latestdoi/334234071)
 
-This repository contains the data and code used to produce analyses and figures for a manuscript accepted at Marine Mammal Science:
+This repository contains the data and code used to produce analyses and figures for:
 
-Cioffi WR, Quick NJ, Foley HJ, Waples DM, Swaim ZT, Shearer JM, Webster DL, Friedlaender AS, Southall BL, Baird RW, Nowacek DP, Read AJ. Adult male Cuvier’s beaked whales (*Ziphius cavirostris*) engage in prolonged bouts of synchronous diving.
+> Cioffi WR, Quick NJ, Foley HJ, Waples DM, Swaim ZT, Shearer JM, Webster DL, Friedlaender AS, Southall BL, Baird RW, Nowacek DP, Read AJ. Adult male Cuvier's beaked whales (*Ziphius cavirostris*) engage in prolonged bouts of synchronous diving. *Marine Mammal Science*. 2021;37:1085–1100. https://doi.org/10.1111/mms.12799.
+
+If you have questions about anything in this repository or are interested in using this dataset please contact wrc14 [at] duke [dot] edu.
 
 # details
 
@@ -43,7 +45,7 @@ Please cite this dataset as:
 
 Please cite the manuscript as:
 
-(TBD)
+> Cioffi WR, Quick NJ, Foley HJ, Waples DM, Swaim ZT, Shearer JM, Webster DL, Friedlaender AS, Southall BL, Baird RW, Nowacek DP, Read AJ. Adult male Cuvier's beaked whales (*Ziphius cavirostris*) engage in prolonged bouts of synchronous diving. *Marine Mammal Science*. 2021;37:1085–1100. https://doi.org/10.1111/mms.12799.
 
 # contact information
 
