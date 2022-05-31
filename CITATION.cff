@@ -1,0 +1,88 @@
+cff-version: 1.2.0
+title: >-
+  zc_sync: Data and code for Adult male Cuvier's beaked whales (Ziphius cavirostris) engage in prolonged bouts of synchronous diving
+message: >-
+  If you use this dataset or code, please cite it
+  using the metadata from this file. See README.md for a
+  suggested citation format.
+type: software
+authors:
+  - given-names: William R
+    family-names: Cioffi
+    email: wrc14@duke.edu
+    affiliation: >-
+      Duke University Marine Laboratory, Nicholas
+      School of the Environment, Duke University,
+      Beaufort, NC, U R.
+    orcid: 'https://orcid.org/0000-0003-1182-8578'
+  - given-names: Nicola J
+    family-names: Quick
+    affiliation: >-
+      Duke University Marine Laboratory, Nicholas
+      School of the Environment, Duke University,
+      Beaufort, NC, USA
+    orcid: 'https://orcid.org/0000-0003-3840-6711'
+  - given-names: Heather J
+    family-names: Foley
+    affiliation: >-
+      Duke University Marine Laboratory, Nicholas
+      School of the Environment, Duke University,
+      Beaufort, NC, USA
+    orcid: 'https://orcid.org/0000-0003-0898-3008'
+  - given-names: Danielle M
+    family-names: Waples
+    affiliation: >-
+      Duke University Marine Laboratory, Nicholas
+      School of the Environment, Duke University,
+      Beaufort, NC, USA
+  - given-names: Zachary T
+    family-names: Swaim
+    affiliation: >-
+      Duke University Marine Laboratory, Nicholas
+      School of the Environment, Duke University,
+      Beaufort, NC, USA
+    orcid: 'https://orcid.org/0000-0002-0425-8629'
+  - given-names: Jeanne M
+    family-names: Shearer
+    affiliation: >-
+      Duke University Marine Laboratory, Nicholas
+      School of the Environment, Duke University,
+      Beaufort, NC, USA
+    orcid: 'https://orcid.org/0000-0002-7784-870X'
+  - given-names: Daniel L
+    family-names: Webster
+    affiliation: 'Bridger Consulting Group, Bozeman, MT, USA'
+  - given-names: Ari S
+    family-names: Friedlaender
+    afilliation: >-
+      Institute of Marine Sciences, Long Marine 
+      Laboratory, University of California Santa 
+      Cruz, Santa Cruz, California
+    orcid: 'https://orcid.org/0000-0002-2822-233X'
+  - given-names: Brandon L
+    family-names: Southall
+    affiliation: >-
+      Southall Environmental Associates, Inc., Aptos,
+      CA, USA
+    orcid: 'https://orcid.org/0000-0002-3863-2068'
+  - given-names: Robin W
+    family-names: Baird
+    affiliation: 'Cascadia Research Collective, Olympia, WA, USA'
+    orcid: 'https://orcid.org/0000-0002-9419-6336'
+  - given-names: Douglas P
+    family-names: Nowacek
+    affiliation: >-
+      Duke University Marine Laboratory, Nicholas
+      School of the Environment, Duke University,
+      Beaufort, NC, USA
+    orcid: 'https://orcid.org/0000-0002-8137-1836'
+  - given-names: Andrew J
+    family-names: Read
+    affiliation: >-
+      Duke University Marine Laboratory, Nicholas
+      School of the Environment, Duke University,
+      Beaufort, NC, USA
+    orcid: 'https://orcid.org/0000-0001-6039-074X'
+date-released: 2021-02-16
+doi: 10.5281/zenodo.4542748
+url: https://github.com/williamcioffi/zc_sync

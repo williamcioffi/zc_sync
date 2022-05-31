@@ -41,7 +41,7 @@ foieGras_0.2.2
 
 Please cite this dataset as:
 
-> Cioffi WR, Quick NJ, Foley HJ, Waples DM, Swaim ZT, Shearer JM, Webster DL, Friedlaender AS, Southall BL, Baird RW, Nowacek DP, Read AJ. 2021. Dataset and code: Adult male Cuvier's beaked whales (*Ziphius cavirostris*) engage in prolonged bouts of synchronous diving. https://github.com/williamcioffi/zc_sync doi: 10.5281/zenodo.4542749.
+> Cioffi WR, Quick NJ, Foley HJ, Waples DM, Swaim ZT, Shearer JM, Webster DL, Friedlaender AS, Southall BL, Baird RW, Nowacek DP, Read AJ. 2021. zc_sync: Data and code for Adult male Cuvier's beaked whales (*Ziphius cavirostris*) engage in prolonged bouts of synchronous diving. https://github.com/williamcioffi/zc_sync doi: [10.5281/zenodo.4542748](https://doi.org/10.5281/zenodo.4542748).
 
 Please cite the manuscript as:
 
